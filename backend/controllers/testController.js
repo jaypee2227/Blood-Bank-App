@@ -1,6 +1,6 @@
 const sendData = (req, res)=>{
     res.status(200).json({
-        message : "Welcome to this New World Jayprakash"
+        message : "Welcome to this World Jayprakash"
     })
 }
 
